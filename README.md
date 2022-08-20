@@ -1,2 +1,6 @@
 # Job-search-website
-A front-end Home page of a Job Finding platform built with HTML and CSS only.
+A front-end Home page of a Job Finding platform built with HTML and CSS.
+### Stacks
+- HTML
+- CSS
+- Bootstrap
